@@ -31,7 +31,7 @@ Direct download or clone with git.
 ## Version info
 
 1.0 - Initial Release
-
+1.1 - Used as a dumping ground for moving all the base ESX commands by one of my devs.... haven't cleaned up yet.
 
 ## Acknowledgements
 
